@@ -1,6 +1,8 @@
 # JOSM安装教程
 ***
 ## 前言
+* **注意**，打开这些网站都需要翻墙挂外网！
+
 * JOSM（Java OpenStreetMap Editor）是一个开源的地图编辑器，用于编辑OpenStreetMap（OSM）数据。它允许用户查看、编辑和上传地理数据，以改善和扩展`OSM`地图。
 
 * 首先我们在地图文件的下载网站（[https://www.openstreetmap.org/](https://www.openstreetmap.org/)）中下载好我们所需要的`map.osm`文件，最好更改一下名称方便后续使用，如重名名`GDUT_map.osm`。
