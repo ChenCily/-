@@ -12,7 +12,7 @@
 
 + 在下载好`osm`文件后，我们在虚拟机中查看如果有部分线路达不到预期所要的范围，有些道路会延伸出很长一段，不易查看，如图所示预期地图大小：
 
-![alt GDUT地图](https://github.com/ChenCily/-/blob/main/Image/%E6%9C%9F%E6%9C%9B%E9%81%93%E8%B7%AF%E5%A4%A7%E5%B0%8F.png?raw=true)
+![alt GDUT地图](Images/期望道路大小.png)
 
 + 但是在实际的虚拟机中查看的地图：
 
